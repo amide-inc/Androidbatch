@@ -1,0 +1,2 @@
+rootProject.name='Androidbatch'
+include ':app'
